@@ -1,4 +1,4 @@
-# 
+# Automatic Quicken workflow for Mac OS | Instant Quicken workflow for PC Windows. Featuring search functionality and pdf compression — optimized for maximum performance on every platform.
 
 
 
